@@ -1,4 +1,4 @@
-# Solucoes-BeeCrowd
+# Solucoes-BeeCrowd para Java
 
 O site aceita apenas que a classe seja Main, ou seja, trocar o nome da classe BeeCrowd(número do exercício) para Main.
 
